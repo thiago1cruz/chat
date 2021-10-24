@@ -22,9 +22,9 @@ open firebase console  and create your project
 - https://console.firebase.google.com/
 
 register the app, according to the documentation in the link below in step 2 and 3 for Androis and IOS
-## Android 
+### Android 
 -https://firebase.google.com/docs/android/setup?hl=pt-br
-## IOS
+### IOS
 -https://firebase.google.com/docs/ios/setup?hl=pt-br
 
 
